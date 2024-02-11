@@ -2,7 +2,7 @@
 # I am working to update the template below with real information, check back soon!
 <a href="https://www.linkedin.com/in/mark-cardiff/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cyber security professional.
+I am a cyber security professional, currently working as the Team Lead in a SOC.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
