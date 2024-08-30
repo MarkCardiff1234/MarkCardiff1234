@@ -1,8 +1,3 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-hacker
 
 # Hello, I'm Mark. 
 ## Work in progress, check back soon!
