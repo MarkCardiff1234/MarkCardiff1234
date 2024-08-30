@@ -1,3 +1,9 @@
+title: Hacker theme
+description: Hacker is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-hacker
+
 # Hello, I'm Mark. 
 ## Work in progress, check back soon!
 <a href="https://www.linkedin.com/in/mark-cardiff/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
