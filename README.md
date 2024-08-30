@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/mark-cardiff/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a cyber security professional, currently working as the Team Lead in a SOC.
+I need to update everything on this page :D
 
 ## Objective
 
