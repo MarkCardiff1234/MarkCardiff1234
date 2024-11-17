@@ -1,9 +1,16 @@
 
 # Hello, I'm Mark. 
-## Work in progress, check back soon!
+## Cyber Secruity Professional.
 <a href="https://www.linkedin.com/in/mark-cardiff/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cyber security professional, currently working as the Team Lead in a SOC.
+My current role is SOC Manager, leading a team of 14 analysts to deliver exceptional cybersecurity services to over 40 client companies worldwide.
+
+I oversee the detection, response, and mitigation of complex security threats across multiple industries. 
+
+With expertise in threat intelligence, incident response, threat detection and security architecture, I excel at building and maintaining strategic partnerships with customers to deliver tailored security solutions. 
+
+Passionate about staying ahead of emerging threats, I continuously invest in my skills and knowledge to ensure our SOC remains at the forefront of industry best practices. When not leading my team, I'm always on the lookout for innovative ways to enhance our customers' security posture and drive business growth through informed risk management.
+
 I need to update everything on this page :D
 
 ## Objective
