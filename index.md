@@ -1,6 +1,6 @@
 
 # Hello, I'm Mark. 
-## Cyber Secruity Professional.
+## Cyber Security Professional.
 <a href="https://www.linkedin.com/in/mark-cardiff/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 My current role is SOC Manager, leading a team of 14 analysts to deliver exceptional cybersecurity services to over 40 client companies worldwide.
