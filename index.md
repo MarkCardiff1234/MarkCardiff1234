@@ -7,15 +7,13 @@ My current role is SOC Manager, leading a team of 14 analysts to deliver excepti
 
 I oversee the detection, response, and mitigation of complex security threats across multiple industries. 
 
-With expertise in threat intelligence, incident response, threat detection and security architecture, I excel at building and maintaining strategic partnerships with customers to deliver tailored security solutions. 
-
-Passionate about staying ahead of emerging threats, I continuously invest in my skills and knowledge to ensure our SOC remains at the forefront of industry best practices. When not leading my team, I'm always on the lookout for innovative ways to enhance our customers' security posture and drive business growth through informed risk management.
+With expertise in threat intelligence, incident response, threat detection and security architecture, I excel at building and maintaining strategic partnerships with customers to deliver tailored security solutions. I am passionate about staying ahead of emerging threats, I continuously invest in my skills and knowledge to ensure our SOC remains at the forefront of industry best practices. When not leading my team, I'm always on the lookout for innovative ways to enhance our customers' security posture and drive business growth through informed risk management.
 
 I need to update everything on this page :D
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, I started my cyber career as an apprentice SOC analyst and now manage the SOC. In the future I would like to move into a Threat Intelligence or Malware analysis type role, where I can focus on technical details and expand my knowledge of cyber threats.
 
 ## Skills
 
@@ -23,9 +21,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Security Automation with SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Case Management                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
